@@ -39,6 +39,3 @@ This project aims to conduct a Transit-Oriented Development (TOD) suitability an
 - Park Data: [San Francisco Recreation & Parks Department](https://data.sfgov.org/Parks-and-Recreation/Recreation-and-Park-Department-Park-Properties/k6ts-qzbu)
 - School Data: [California Department of Education](https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/gtr9-ntp6)
 - Bus Stop Data: [San Francisco Municipal Transportation Agency (SFMTA)](https://data.sfgov.org/Transportation/SFMTA-Stop-Information-Map/2z2v-wy2b)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
